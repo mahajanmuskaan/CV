@@ -1,0 +1,17 @@
+/******************* TAG SELECTORS***************************/
+
+body{
+    background-color: #A8D1D1;
+}
+hr{
+    color: grey;
+    border-style: dotted none none none;
+    border-width: 5px;
+    width: 5%;
+}
+h1{
+    color: #3E6D9C;
+}
+h3{
+    color: #256D85;
+}

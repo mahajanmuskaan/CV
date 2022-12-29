@@ -1,0 +1,102 @@
+body{
+    text-align: center;
+    font-size: 18px;
+}
+.top-section{
+    background-color: #CBEDD5;
+    position: relative;
+    padding-top: 100px;
+}
+.mid-section{
+    background-color: #CBEDD5;
+    position: relative;
+    padding-top: 30px;
+    padding-bottom: 30px;;
+}
+.introduction-part{
+    color: black;
+    font-family: Georgia, Times, "Times New Roman", serif; font-size: 20px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 20px;
+}
+.center{
+    table-layout: fixed;
+    width: 100%;
+    border-spacing: 5px 1rem;
+    margin-left: auto;
+    margin-right: auto;
+}
+.images{
+    width: 200px;
+}
+.footer-images{
+    width: 38px;;
+}
+.submit-btn{
+    border: 0;
+    line-height: 2.5;
+    padding: 0 20px;
+    font-size: 1rem;
+    text-align: center;
+    color: #fff;
+    text-shadow: 1px 1px 1px #000;
+    border-radius: 10px;
+    background-color: rgba(220, 0, 0, 1);
+}
+.submit-btn:hover{
+    background-color: rgba(255, 0, 0, 1);
+}
+.submit-btn:active{
+    box-shadow: inset -2px -2px 3px rgba(255, 255, 255, 0.6), inset 2px 2px 3px rgba(0, 0, 0, 0.6);
+
+}
+#top-cloud-img{
+    margin-right: 0px;
+    margin-left: 300px;
+
+}
+#mid-cloud-img{
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+h1{
+    color: #2B3467;
+    font-family: "Papyrus"; 
+    font-size: 65px; 
+    font-style: normal; 
+    font-variant: normal; 
+    font-weight: 700; 
+    line-height: 26.4px;
+}
+h2{
+    color: #2B3467;
+    font-family: "Papyrus"; 
+    font-size: 40px; 
+    font-style: normal; 
+    font-variant: normal; 
+    font-weight: 700; 
+    line-height: 26.4px;
+}
+h3{
+    color: #CF0A0A;
+    font-family: "Papyrus"; 
+    font-size: 20px; 
+    font-style: normal; 
+    font-variant: normal; 
+    font-weight: 700; 
+    line-height: 26.4px;
+}
+p{
+    color: #CF0A0A;
+    font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif; 
+    font-size: 30px; 
+    font-style: normal; 
+    font-variant: normal; 
+    font-weight: 400; 
+    line-height: 20px;
+}
+hr{
+    color: grey;
+    border-style: dotted none none none;
+    border-width: 5px;
+    width: 5%;
+ }

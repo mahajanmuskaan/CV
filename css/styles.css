@@ -24,6 +24,30 @@ body{
     margin-left: auto;
     margin-right: auto;
 }
+.images{
+    width: 200px;
+}
+.footer-images{
+    width: 38px;;
+}
+.submit-btn{
+    border: 0;
+    line-height: 2.5;
+    padding: 0 20px;
+    font-size: 1rem;
+    text-align: center;
+    color: #fff;
+    text-shadow: 1px 1px 1px #000;
+    border-radius: 10px;
+    background-color: rgba(220, 0, 0, 1);
+}
+.submit-btn:hover{
+    background-color: rgba(255, 0, 0, 1);
+}
+.submit-btn:active{
+    box-shadow: inset -2px -2px 3px rgba(255, 255, 255, 0.6), inset 2px 2px 3px rgba(0, 0, 0, 0.6);
+
+}
 #top-cloud-img{
     margin-right: 0px;
     margin-left: 300px;
@@ -47,6 +71,15 @@ h2{
     color: #2B3467;
     font-family: "Papyrus"; 
     font-size: 40px; 
+    font-style: normal; 
+    font-variant: normal; 
+    font-weight: 700; 
+    line-height: 26.4px;
+}
+h3{
+    color: #CF0A0A;
+    font-family: "Papyrus"; 
+    font-size: 20px; 
     font-style: normal; 
     font-variant: normal; 
     font-weight: 700; 
